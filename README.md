@@ -1,4 +1,4 @@
-# Obsidian-Zotero-Template
+# Obsidian-Zotero-Template V1.0
 this is a html styled zotero import template for obsidian.
 
 Zotero to Obsidian Import Template
