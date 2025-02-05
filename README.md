@@ -27,6 +27,12 @@ Copy the template file into your Obsidian vault and adjust the settings as neede
 Customize as Needed:
 Feel free to modify the HTML/CSS or templating logic to better suit your workflow or to address any display issues.
 
+![image](https://github.com/user-attachments/assets/3d8ccb84-0db4-4ef7-a2b2-673627fd2870)
+
+
+![image](https://github.com/user-attachments/assets/58fdd31c-4dc2-48a2-b6b6-917c0c55af48)
+
+
 Contributing
 
 If you have suggestions for improvements or encounter issues, please open an issue or submit a pull request. Contributions are welcome!
